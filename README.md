@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# FOOD_APP
 
 
 # Parcel
@@ -22,7 +22,7 @@
 
 
 
-# Namaste Food
+# STRUCTURE
 
 
 /**
